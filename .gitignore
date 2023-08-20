@@ -1,0 +1,8 @@
+*
+!.gitignore
+!README.md
+!Modules/
+!Modules/Base/
+!Modules/Base/*
+!Modules/Base/*/*
+!Modules/Base/*/*/*
